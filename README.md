@@ -3,7 +3,7 @@
 ## 📝 Descripción del Proyecto
 Este proyecto simula un análisis real de Recursos Humanos para una empresa de 50 empleados. 
 El objetivo es proporcionar una herramienta visual interactiva que permita a la gerencia tomar
-decisiones basadas en datossobre la retención de personal y la distribución presupuestaria.
+decisiones basadas en datos sobre la retención de personal y la distribución presupuestaria.
 
 ## 🛠️ Tecnologías Utilizadas
 * **Microsoft Excel:** Limpieza de datos (ETL), normalización de campos y cálculos de antigüedad mediante funciones de fecha.
