@@ -1,4 +1,4 @@
-# 📊 People Analytics Dashboard: Gestión de Talento y Equidad Salarial
+# 📊 Gestión de Talento y Equidad Salarial
 
 Este proyecto presenta un análisis integral de gestión de talento utilizando una arquitectura híbrida de datos. Combina la potencia de **Power BI** para la visualización de KPIs operativos y **Python** para análisis estadísticos avanzados de distribución.
 
