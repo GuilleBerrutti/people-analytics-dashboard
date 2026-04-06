@@ -16,7 +16,7 @@ El análisis de este dataset permite extraer las siguientes conclusiones clave p
 
 ## 🖼️ Evidencia del Análisis (Dashboard)
 
-![Dashboard de People Analytics](https://github.com/GuilleBerrutti/people-analytics-dashboard/blob/main/tu_imagen.png?raw=true)
+![Dashboard de People Analytics](preview_dashboard.png)
 
 > *Nota: Sustituye el enlace de arriba por la ruta real de tu imagen una vez que la subas al repositorio.*
 
