@@ -9,8 +9,11 @@ Este proyecto presenta un análisis integral de gestión de talento utilizando u
 Tras el procesamiento y visualización de la estructura organizacional, se determinan los siguientes hallazgos críticos:
 
 1. **Brecha Salarial y Techos de Cristal:** El análisis de densidad mediante gráficos de violín revela que, aunque los promedios pueden parecer cercanos, el género masculino presenta una mayor concentración en los deciles salariales superiores. Esto sugiere la existencia de barreras invisibles para el acceso a cargos de alta jerarquía por parte del género femenino.
+
 2. **Riesgo de Fuga de Talento (Churn):** Con un **14% de inactividad**, se identifica una oportunidad de mejora en las políticas de retención. Al cruzar estos datos con la antigüedad, se observa que la rotación se concentra en departamentos específicos como Ventas, lo que requiere una revisión de los incentivos locales.
+
 3. **Desequilibrio en la Carga de Nómina:** El departamento de **IT** lidera el gasto salarial con $3.0M, superando en un 36% al área de Ventas. Esta disparidad indica una alta dependencia de perfiles técnicos especializados, sugiriendo la necesidad de planes de sucesión internos para mitigar el riesgo operativo.
+
 4. **Segmentación de Fuerza Laboral:** El **86% de la plantilla activa** se distribuye de manera desigual, donde Marketing y Finanzas muestran una estructura más plana, permitiendo una comunicación más ágil en comparación con Recursos Humanos.
 
 ---
