@@ -19,7 +19,6 @@ El análisis de este dataset permite extraer las siguientes conclusiones clave p
 ## 🖼️ Evidencia del Análisis (Dashboard)
 
 ![Dashboard de People Analytics](preview_dashboard.png)
-
 ---
 
 ## 🚀 Características Técnicas
