@@ -16,7 +16,8 @@ Este proyecto proporciona una solución integral para el monitoreo de KPIs de re
 
 ​🛠️ Solución Técnica (The Stack)
 
-​Extracción y Limpieza: SQL y Excel avanzado para el procesamiento de datos brutos.
+​Extracción y Limpieza: 
+SQL y Excel avanzado para el procesamiento de datos brutos.
 
 ​Visualización:
 Power BI para la creación de un tablero interactivo.
